@@ -1,0 +1,48 @@
+thead tr {
+    background: LightSteelBlue;
+}
+thead tr th {
+    border-left: black 1px solid !important;
+    border-right: black 1px solid !important;
+    border-bottom: 0px !important;
+    border-top: 0px !important;
+    color: darkslategray !important;
+    text-align: center;
+    padding: 0px !important;
+    vertical-align: middle !important;
+    font-size: 14px;
+}
+.titlelink {
+    background-color: CornflowerBlue;
+    color: white !important;
+}
+.nav-item {
+    border: 1px solid lightgray;
+}
+.nav-item:hover {
+    background-color: grey;
+}
+.w200 {
+    width: 200px;
+}
+.invalid {
+    border-bottom: 3px solid red;
+}
+.campaign-item {
+    text-align:left;
+    background-color: aliceblue;
+    cursor: pointer;
+    display: block;
+}
+#ringcentralTable td {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+#ringcentralTable td, #ringcentralTable th {
+    width: 16.6666666666% ;
+    max-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

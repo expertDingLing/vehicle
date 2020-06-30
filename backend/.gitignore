@@ -1,0 +1,5 @@
+node_modules
+old_node_modules
+backup_db
+npm-debug.log
+imgs
