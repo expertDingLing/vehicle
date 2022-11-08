@@ -18,7 +18,7 @@
     "file-system": "^2.2.2",
     "file-type": "^8.1.0",
     "geoip-lite": "^1.2.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sftp": "^0.1.5",
     "jade": "~1.11.0",
     "json2csv": "^4.2.1",
